@@ -147,6 +147,61 @@ header nav ul li a:hover{
 .depend-img{
     width: 80%;
 }
+.depend-desc-1{
+    font-size: 20PX;
+    color: #757575;
+}
 .depend-desc{
     margin-top: 10px;
+    color: #757575;
+    font-size: 20px;
+}
+/* My update */
+.my-update{
+    text-align: center;
+    margin-top: 100px;
+}
+.update-title{
+    margin: 30px 0;
+    font-size: 45px;
+}
+.update-desc{
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 30px;
+    
+}
+/* Email sec */
+.email-sec{
+    padding: 6% 10%;
+    background-color: #FFF4D6;
+}
+.email-sec > input{
+    width: 220px;
+    padding: 10px 0;
+    font-size: 16px;
+}
+.submit-btn{
+        background: #FF5959;
+        width: 150px;
+        padding: 12px 0px; 
+        font-size: 16px;
+        font-weight: 400;
+        color: #FFF;
+        border: none;
+        margin-left: -5px;
+}
+.footer{
+    text-align: center;
+    padding: 80px 0;
+    background-color: #0B0D17;
+}
+.footer>h2{
+    color: #FF5959;
+    font-size: 35px;
+    padding-bottom: 30px;
+    font-style: italic;
+}
+.footer>p{
+    color: #757575;
 }
